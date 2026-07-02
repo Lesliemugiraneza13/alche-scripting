@@ -1,6 +1,6 @@
 # Regular Expressions
 
-This project is part of the ALX Software Engineering curriculum.
+This project is part of the ALU Software Engineering curriculum.
 
 ## Description
 
